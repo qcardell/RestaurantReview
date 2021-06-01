@@ -81,7 +81,7 @@ initMap = () => {
         scrollWheelZoom: false
       });
   L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={mapboxToken}', {
-    mapboxToken: 'pk.eyJ1IjoicWNhcmRlbGwiLCJhIjoiY2twN2UyaHF3MDYxNDJwcGk3Z2V5MDUzeSJ9.IrlnAT4zyhanz63-8KzsCw',
+    mapboxToken: 'Your-Token',
     maxZoom: 18,
     attribution: 'Map data &copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>',
     id: 'mapbox/streets-v11'
