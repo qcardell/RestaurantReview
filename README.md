@@ -57,3 +57,8 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 * bootstrap - Toolkit used for the HTML, CSS, and JavaScript
 * JavaScript - Computer programming language used for the 
 
+![Snapshot](https://user-images.githubusercontent.com/42754526/120390093-e84a7500-c2f2-11eb-869d-8d268e73b608.jpg)
+
+https://user-images.githubusercontent.com/42754526/120390142-f7312780-c2f2-11eb-9ceb-bedb1dff38a5.mp4
+
+
